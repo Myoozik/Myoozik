@@ -5,9 +5,9 @@
     -- I like science and mathematics in general but in particular with space.
 <p align="center">
     <a href="https://github.com/Myoozik">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Github" height="30" width="30"/>
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/github.svg" alt="Github" height="25" width="25"/>
     </a>
     <a href="https://discord.com/invite/VS6jP4GDD3">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Ther0s' Discord" height="30" width="30"/>
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/discord.svg" alt="Ther0s' Discord" height="25" width="25"/>
     </a>
 </p>    
