@@ -8,6 +8,9 @@
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/github.svg" alt="Github" height="25" width="25"/>
     </a>
     <a href="https://discord.com/invite/VS6jP4GDD3">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/discord.svg" alt="Ther0s' Discord" height="25" width="25"/>
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/discord.svg" alt="Discord" height="25" width="25"/>
+    </a>
+    <a href="https://keybase.io/theros">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/keybase.svg" alt="Keybase" height="25" width="25"/>
     </a>
 </p>    
