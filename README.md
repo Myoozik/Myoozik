@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
     <p>- I'm a programmer and electronics hobyist. <br></p>
-    <p>- I like science and mathematics in general but with a particular interest with astronomy and physics.</p>
+    <p>- I like science and mathematics in general but with a particular interest in chemical engineering based knowledge</p>
 <p align="center">
     <a href="https://github.com/Myoozik">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/github.svg" alt="Github" height="25" width="25"/>
