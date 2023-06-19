@@ -1,4 +1,4 @@
-<h1> Hey, I'm Ther0s. </h1>
+<h1> Hey, I'm Myoozik </h1>
 
 <h3>About Me</h3>
     <p>- I'm a programmer and electronics hobyist. <br></p>
